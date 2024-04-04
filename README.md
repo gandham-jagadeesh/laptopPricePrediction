@@ -1,4 +1,5 @@
-### CB11-----------------------------------------------------------------------------------------------------
+### CB11
+----------------------------------------------------------------------------------------------------
 ### Laptop Price prediction using machine learning algorithms
 -------------------------------------------------
 -----------------------------------------------------
@@ -7,6 +8,9 @@
 2. G.jagadeesh
 3. p.Kadhar khan
 4. B.phaneedra kumar
+
+
+
 ------------------------------------------------------------------------------------------------------  
 ### INTRODUCTION
 One cannot stress the significance of computers in our daily life. People use science in their daily lives and evaluate it on a regular basis. Similar to desktop computers, laptops are used in many aspects of our daily life. These sectors—companies, banks, universities, and homes—all transform raw facts into insightful and useful information.
